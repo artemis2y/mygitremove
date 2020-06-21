@@ -1,1 +1,2 @@
-bizhiyin
+SELECT * FROM EM2;
+DLETE FROM EMP2;
